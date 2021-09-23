@@ -1,7 +1,7 @@
 {
   "name": "storefront-boilerplate",
   "version": "0.1.0",
-  "author": "Cloudoki",
+  "author": "API Suite",
   "description": "The Storefront's UI Boilerplate",
   "dependencies": {
     "@emotion/core": "10.0.0",
