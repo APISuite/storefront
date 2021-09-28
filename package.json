@@ -1,8 +1,8 @@
 {
-  "name": "storefront-boilerplate",
+  "name": "storefront",
   "version": "0.1.0",
   "author": "API Suite",
-  "description": "The Storefront's UI Boilerplate",
+  "description": "The Storefront",
   "dependencies": {
     "@emotion/core": "10.0.0",
     "@testing-library/jest-dom": "^5.11.4",
